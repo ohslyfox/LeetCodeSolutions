@@ -28,7 +28,7 @@ namespace LeetCode
                         temp = next;
                     }
                 }
-                head = head.next
+                head = head.next;
             }
 
             return res;
